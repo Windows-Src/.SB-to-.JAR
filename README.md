@@ -1,2 +1,14 @@
-# .SB-to-.JAR
-.SB=Scratch 1.4 project            .JAR=Java file
+Как сконвертировать .SB в .jar
+
+
+качай СВ то ДЖАР
+
+Скачивай Java
+
+Распокуй
+
+заходи в program/dist
+
+Открывай ToJAR.jar с помощью java
+
+Всё
